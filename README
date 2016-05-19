@@ -1,0 +1,8 @@
+This is a sample firmware for RL78/G10 MCU
+written in assembly language.
+
+The firmware outputs PWM to P0.4 pin with increasing ratio.
+After 0.5s ratio becomes 100% and is reset to 0%
+and program starts from the beginning after 0.5s pause.
+
+For licence information see UNLICENSE.
